@@ -3,6 +3,8 @@ import React from 'react'
 import Navbar from './components/navbar'
 import Link from 'next/link'
 import Footer from './components/footer'
+import About from './About/page'
+import Contact from './Contact/page'
 
 
 const Home = () => {
@@ -71,6 +73,11 @@ const Home = () => {
           Contact Us
         </Link>
       </section>
+
+        {/*ABOUT*/}
+      <About/>
+      {/*Contact*/}
+      <Contact/>
 
       {/* Footer */}
       <Footer/>

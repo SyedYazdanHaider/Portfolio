@@ -73,8 +73,8 @@ const Contact: React.FC = () => {
         </form>
       </div>
     </div>
-    {/* Footer*/}
-    <Footer/>
+
+
   </div>
   );
 };
