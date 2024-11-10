@@ -67,7 +67,7 @@ const Home = () => {
       <section className="py-20 bg-gray-800 text-center">
         <h2 className="text-3xl font-semibold mb-4">Ready to Get Started?</h2>
         <p className="text-xl mb-6">
-          Whether you're looking for a website, an AI solution, or cloud services, we're here to help you innovate.
+          Whether you&#39;re looking for a website, an AI solution, or cloud services, we&#39;re here to help you innovate.
         </p>
         <Link href="/Contact" className="px-8 py-3 bg-purple-600 text-white font-semibold rounded-lg transition hover:bg-purple-700">
           Contact Us
